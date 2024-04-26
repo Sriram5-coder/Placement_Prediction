@@ -1,0 +1,33 @@
+[{
+  "selected": [
+    1,
+    18,
+    15,
+    20
+  ],
+  "thubornot": 1,
+  "owlhero": 1,
+  "certifications": [
+    2,
+    2
+  ],
+  "skills": [
+    65,
+    4
+  ]
+},
+{
+  "selected": [
+    20
+  ],
+  "certifications": [
+    2
+  ],
+  "skills": [
+    4,9,
+    3
+  ],
+  "thubornot": 0,
+  "owlhero": 0
+}
+]
